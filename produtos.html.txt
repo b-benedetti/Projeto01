@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="loja de artigos e peças de informatica convergence informática">
+    <meta name="keywords" content="loja, artigos, informática, produtos">
+    <meta name="author" content="Italo Reis de Souza, Tiago Costa Lima, Barbara Benedetti Cavalcante">
+    <meta http-equiv="refresh" content="60">
+    <title>Convergence Informática</title>
+    <link rel="shortcut icon" href="imagem/icons8-rdp-connection-16.png" type="image/x-icon">
+    <link rel="stylesheet" href="estilo/estilo.css">
+    <script src="https://kit.fontawesome.com/2cb0fda235.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet">
+</head>
+
+<body class="corpo">
+    <header class="cabecalho">
+        <h1 class="logo">
+            <a href="index.html" title="convergence informática">convergence informática</a>
+        </h1>
+        <form action="" method="get">
+            <input type="text" name="pesquisa" id="pesquisa" placeholder="faça uma pesquisa">
+            <button><i class="fas fa-search-dollar"></i></button>
+        </form>
+    </header>
+    <nav class="menu">
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="produtos.html">Produtos</a></li>
+            <li><a href="serviços.html">Serviços</a></li>
+            <li><a href="contatos.html">Contatos</a></li>
+        </ul>
+        <div class="social-icons">
+            <a href="https://www.facebook.com/Convergence-Inform%C3%A1tica-166776622127100%22%3E" target="_blank"><i class="fab fa-facebook"></i></a>
+            <a href="https://twitter.com/ConvergenceIf%22%3E" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.instagram.com/convergenceinformatica/%22%3E" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.youtube.com/channel/UCQ4M4ZPrxuADwmLj33bwKSg%22%3E" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://www.linkedin.com/in/convergence-inform%C3%A1tica-12804021a/%22%3E" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://api.whatsapp.com/send?phone=5511971382294%22%3E" target="_blank"><i class="fab fa-whatsapp" ></i></a>
+        </div>
+    </nav>
+    <main class="box">
+        <div>
+            <img src="imagem/husky.jpg" />
+            <br>
+            <span>Cadeira Gamer Tempest Husky Gaming White 700</span>
+            <p>R$ 1.899,95</p>
+            <button>COMPRAR</button>
+        </div>
+        <div>
+            <img src="imagem/huskyblack.jpg" />
+            <br>
+
+            <span>Cadeira Gamer Tempest Husky Gaming Black e Red 700</span>
+            <p>R$ 1.899,95</p>
+            <button>COMPRAR</button>
+        </div>
+        <div>
+            <img src="imagem/rtx3090.jpg" />
+            <br>
+            <span>Placa de Vídeo EVGA NVIDIA GeForce RTX 3090, 24GB, GDDR6X - 24G-P5-3975-KR</span>
+            <p>R$ 16.799,90</p>
+            <button>COMPRAR</button>
+        </div>
+        <div>
+            <img src="imagem/rx590.jpg" />
+            <br>
+            <span>Placa de Vídeo Gigabyte AMD Radeon RX 590 Gaming 8G, GDDR5 - GV-RX590GAMING-8GD (rev. 2.0)</span>
+            <p>R$ 1.689,90</p>
+            <button>COMPRAR</button>
+        </div>
+        <div>
+            <img src="imagem/strixhelios.jpg" />
+            <br>
+            <span>Gabinete Gamer ASUS ROG Strix Helios, Mid Tower, RGB, com Fan, Lateral e Frontal em Vidro - 90DC0020-B30000</span>
+            <p>R$ 2.699,90</p>
+            <button>COMPRAR</button>
+        </div>
+        <div>
+            <img src="imagem/D_NQ_NP_735330-MLB41985880821_052020-O.jpg" />
+            <br>
+            <span>Gabinete Gamer Infinity Preto Rainbow Fundo Infinito M908-tr</span>
+            <p>R$ 1.089</p>
+            <button>COMPRAR</button>
+        </div>
+        <div>
+            <img src="imagem/alienware.webp" />
+            <br>
+            <span>Monitor Alienware GAMER G-SYNC 27 AW2721D</span>
+            <p>R$ 8.948,00</p>
+            <button>COMPRAR</button>
+        </div>
+        <div>
+            <img src="imagem/k70mk2.jpg" />
+            <br>
+            <span>Teclado Usb Corsair Gamer Mecanico K70 Mk.2 Rapidfire Ch-910901</span>
+            <p>R$ 1.949,00</p>
+            <button>COMPRAR</button>
+        </div>
+
+    </main>
+    <section class="newsletter">
+        <h3>Newsletter</h3>
+        <p>Receba nossas promoções por e-mail</p>
+        <form action="#" method="post">
+            <input type="text" name="" id="nome" placeholder="digite seu nome">
+            <input type="email" name="" id="email" placeholder="digite seu e-mail aqui">
+            <button>CADASTRAR</button>
+        </form>
+    </section>
+    <footer class="rodape">
+        <p>&copyConvergence Informática</p>
+    </footer>
+</body>
+
+</html>

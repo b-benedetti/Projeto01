@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="loja de artigos e peças de informatica convergence informática">
+    <meta name="keywords" content="loja, artigos, informática, servicos">
+    <meta name="author" content="Italo Reis de Souza, Tiago Costa Lima, Barbara Benedetti Cavalcante">
+    <meta http-equiv="refresh" content="60">
+    <title>Convergence Informática</title>
+    <link rel="shortcut icon" href="imagem/iconee.png" type="image/x-icon">
+    <link rel="stylesheet" href="estilo/estilo.css">
+    <script src="https://kit.fontawesome.com/2cb0fda235.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet">
+</head>
+
+<body class="corpo">
+    <header class="cabecalho">
+        <h1 class="logo">
+            <a href="index.html" title="Convergence Informática">Convergence Informática</a>
+        </h1>
+        <form action="" method="get">
+            <input type="text" name="pesquisa" id="pesquisa" placeholder="faça uma pesquisa">
+            <button><i class="fas fa-search-dollar"></i></button>
+        </form>
+    </header>
+    <nav class="menu">
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="produtos.html">Produtos</a></li>
+            <li><a href="servicos.html">Serviços</a></li>
+            <li><a href="contatos.html">Contatos</a></li>
+        </ul>
+        <div class="social-icons">
+            <a href="https://www.facebook.com/Convergence-Inform%C3%A1tica-166776622127100%22%3E" target="_blank"><i class="fab fa-facebook"></i></a>
+            <a href="https://twitter.com/ConvergenceIf%22%3E" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.instagram.com/convergenceinformatica/%22%3E" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.youtube.com/channel/UCQ4M4ZPrxuADwmLj33bwKSg%22%3E" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://www.linkedin.com/in/convergence-inform%C3%A1tica-12804021a/%22%3E" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://api.whatsapp.com/send?phone=5511971382294%22%3E" target="_blank"><i class="fab fa-whatsapp"></i></a>
+        </div>
+    </nav>
+    <main class="boxx">
+        <div>
+            <img src="imagem/manutenção de hardware.jpg" />
+            <br>
+            <h1>Manutenção de Hardware</h1>
+            <p>
+                A manutenção adequada de um hardware é tão importante quanto a de um software. Ela é caracterizada por limpeza, identificação de falhas e suas origens, diagnóstico de peças que não estão mais desempenhando como o desejado e, em alguns casos, substituição
+                de componentes. O ideal é que seja feita uma manutenção regularmente; assim é possível evitar desgastes, inclusive dos elementos vitais para o bom funcionamento da máquina.<br><br> Basicamente existem dois tipos de manutenções
+                de hardware: preventiva e corretiva. A primeira consiste na análise prévia do computador, de seu funcionamento, relacionada à CPU e a todos os periféricos.<br><br> Já a manutenção corretiva é feita com base na falha de execução do computador,
+                tanto de hardware como de software, relacionada à CPU e a todos os periféricos, com o intuito de solucionar os erros encontrados, tendo em vista que erros de hardware costumam gerar falhas diversas de execução em softwares.<br><br>
+                <button>Faça o orçamento</button>
+        </div>
+        <div>
+            <img src="imagem/Gestão de Problemas.jpg" />
+            <br>
+            <h1>Resolução de Problemas</h1>
+            <p>
+                Uma operação eficiente é aquela que trabalha com o mínimo possível de paradas. Em TI, isso significa agir em duas frentes. Em primeiro lugar, na resolução rápida e eficaz de incidentes, para que os processos voltem a funcionar o mais rápido possível —
+                e este é o objetivo de uma gestão de incidentes.<br><br> Para complementar, é fundamental trabalhar com uma gestão de problemas. Seu objetivo é encontrar a(s) causa(s) desses incidentes e tratá-la(s) para que as falhas
+                não voltem a ocorrer. Em outras palavras, trata-se de uma prática essencial para a melhoria contínua do serviço oferecido.<br><br> O objetivo em comum é manter o ambiente controlado e disponível de acordo com a expectativa do negócio.
+                Para isso, é importante conhecer e gerenciar os conceitos de incidente, problema, evento, solução de contorno e erro conhecido.
+                <button>Faça o orçamento</button>
+        </div>
+        <div>
+            <img src="imagem/backup.jpeg" />
+            <br>
+            <h1 style="text-align: center;"> Backup para segurança de dados</h1>
+            <p>
+                O que é? <br><br> Considera-se Backup qualquer cópia de segurança, quer seja feita em outro dispositivo, como HDs externos, pendrives ou na nuvem. A finalidade do Backup é a recuperação de dados para restaurar informações em caso de perda
+                dos arquivos originais, ou em caso de acidentes operacionais com os equipamentos.<br> Por essa razão, é recomendado que façamos Backups recorrentes tanto no ambiente profissional o quanto em nossos arquivos de uso pessoal (documentos de
+                computador, fotos do celular, entre outros).<br><br> Qual a importância?<br><br> A importância do Backup está na proteção contra o risco de perda de dados e informações. Essa importância aumenta proporcionalmente em relação ao valor das
+                informações a serem protegidas. Assim, os Backups passam a ter relevância muito maior em empresas que trabalham com dados e informações sensíveis, como dados bancários e dados pessoais de clientes.<br> Atualmente, realizar cópias de segurança
+                é uma atividade muito mais simples e acessível, devido à diversidade de recursos que a tecnologia disponibiliza. Nesse tocante, a estratégia de centralizar os Backups em um único ambiente pode trazer muitas vantagens para seu negócio,
+                pois o acesso às cópias de segurança torna-se mais ágil, otimizando o tempo de restauração em casos emergenciais.
+            </p>
+            <button>Faça o orçamento</button>
+        </div>
+        <div>
+            <img src="imagem/manutencao-preventiva-em-ti.jpeg" />
+            <br>
+            <h1 style="text-align: center;"> Manutenção Preventiva em TI</h1>
+            <p>
+                Performance <br> A manutenção preventiva de softwares e máquinas mantém sempre uma ótima performance do sistema para todos os colaboradores. Isso significa mais qualidade no serviço, com uma entrega em muito menos tempo.<br> <br> Economia
+                <br> A mesma premissa serve para qualquer tipo de manutenção: quanto mais se arrasta um problema, mais caro fica consertá-lo. Uma boa gestão de manutenção permite ao gestor de TI encontrar falhas quando ainda estão em estágios iniciais
+                e fáceis de serem resolvidas. <br> Além disso, tais erros precisam de menos tempo para que sejam solucionados. Isso também significa menos dinheiro perdido com funcionários parados. <br><br> Segurança
+
+                <br> Quando falamos em TI corporativa, precisamos levar em conta o fator segurança de dados. Quando a manutenção não é constante e preventiva, um sistema pode passar dias, semanas ou até meses com brechas expostas (que podem ser exploradas
+                por criminosos).
+            </p>
+            <button>Faça o orçamento</button>
+        </div>
+        <div>
+            <img src="imagem/instalação de rede.jpg" />
+            <br>
+            <h1 style="text-align: center;"> Instalação de Redes</h1>
+            <p>
+                Nosso serviço de instalação de redes leva em conta todos os requisitos básicos que uma rede local ou de distribuição necessitam para manter o melhor funcionamento.
+                <br><br> Wireless (Redes Sem Fio) <br> Uma WLAN é uma rede que pode ser usada em um escritório ou até mesmo no edifício por completo, conectando diversos dispositivos wireless na sua rede. Ao invés de utilizar cabos para conectar desktops
+                e servidores à rede, as WLAN conectam dispositivos móveis a um ponto de acesso, ligado por meio de cabo à rede LAN. Os usuários de dispositivos móveis podem mudar de sala, passar por corredores, ir a uma reunião e até mesmo mudar de andar,
+                eles permanecerão conectados à Internet, desde que todas as áreas visitadas estejam cobertas e pertençam à mesma rede. Em uma WLAN, cada dispositivo comunica-se com o ponto de acesso, que podem estar a dezenas de metros de distância.<br><br>                Configuração de Redes VPN <br> Interligamos suas filiais ou colaboradores externos em rede. O serviço de virtualização de rede consiste no mapeamento de drivers de rede remotamente, usando linhas de baixo custo e com alto nível de segurança.
+            </p>
+            <button>Faça o orçamento</button>
+        </div>
+
+
+    </main>
+    <section class="newsletter">
+        <h3>Newsletter</h3>
+        <p>Receba nossas promoções por e-mail</p>
+        <form action="#" method="post">
+            <input type="text" name="" id="nome" placeholder="digite seu nome">
+            <input type="email" name="" id="email" placeholder="digite seu e-mail aqui">
+            <button>CADASTRAR</button>
+        </form>
+    </section>
+    <footer class="rodape">
+        <p>&copyConvergence Informática</p>
+    </footer>
+</body>
+
+</html>

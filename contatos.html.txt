@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="loja de artigos e peças de informatica convergence informática">
+    <meta name="keywords" content="loja, artigos, informática, produtos">
+    <meta name="author" content="Italo Reis de Souza, Tiago Costa Lima, Barbara Benedetti Cavalcante">
+    <meta http-equiv="refresh" content="60">
+    <title>Convergence Informática</title>
+    <link rel="shortcut icon" href="imagem/iconee.png" type="image/x-icon">
+    <script src="https://kit.fontawesome.com/2cb0fda235.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="estilo/estilo.css">
+</head>
+
+<body class="corpo">
+    <header class="cabecalho">
+        <h1 class="logo">
+            <a href="index.html" title="convergence informática">convergence informática</a>
+        </h1>
+        <form action="" method="get">
+            <input type="text" name="pesquisa" id="pesquisa" placeholder="faça uma pesquisa">
+            <button><i class="fas fa-search-dollar"></i></button>
+        </form>
+    </header>
+    <nav class="menu">
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="produtos.html">Produtos</a></li>
+            <li><a href="servicos.html">Serviços</a></li>
+            <li><a href="contatos.html">Contatos</a></li>
+        </ul>
+        <div class="social-icons">
+            <a href="https://www.facebook.com/Convergence-Inform%C3%A1tica-166776622127100" target="_blank"><i class="fab fa-facebook"></i></a>
+            <a href="https://twitter.com/ConvergenceIf" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.instagram.com/convergenceinformatica/" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.youtube.com/channel/UCQ4M4ZPrxuADwmLj33bwKSg" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://www.linkedin.com/in/convergence-inform%C3%A1tica-12804021a/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://api.whatsapp.com/send?phone=5511971382294" target="_blank"><i class="fab fa-whatsapp"></i></a>
+        </div>
+    </nav>
+    <main class="contato">
+        <h1>Como podemos te ajudar? Confira abaixo as nossas Perguntas Frequentes e esclareça as suas dúvidas!</h1>
+        <h2>Posso alterar o endereço de entrega com o objeto em transporte?</h2>
+        <p>Quando seu pedido já estiver em transporte, infelizmente não será possível alterar o endereço de entrega. No entanto, você poderá nos contatar para verificar a possibilidade de solicitarmos o retorno do pedido ao Convergence Informática! para
+            alteração do novo endereço</p>
+        <h2>Qual é o prazo para confirmação de pagamento?</h2>
+        <p>Pagamentos efetuados via Boleto Bancário e Cartão de Crédito têm um prazo de 1 a 2 dias úteis para confirmação e para o pagamento via PIX o prazo de confirmação é de até 30 minutos. Será necessário entrar em contato com o nosso atendimento apenas
+            se esse período for expirado e se o pagamento de seu pedido permanecer indicado como pendente.</p>
+        <h2>Ainda estou aguardando o retorno da Garantia/Arrependimento.</h2>
+        <p>Caso você já tenha enviado o produto para nós, pedimos sua compreensão e paciência quanto ao cumprimento dos prazos no atual período em que passamos, já que organizamos novos turnos de trabalho entre nossos colaboradores seguindo as recomendações
+            de prevenção e segurança. No entanto, destacamos que, assim que o seu produto for recepcionado, você será notificado pelo e-mail de cadastro.</p>
+        <h2>Ainda tem dúvidas? Estamos à disposição para atendê-lo!</h2>
+        <p>Atendimento via Chat online das 08:00 às 20:00 de segunda à sexta, horário de Brasília (exceto feriados).
+            <br>Entre em contato pelo e-mail convergenceinformatica@gmail.com ou acesse o chat clicando no botão abaixo.</p>
+        <a href="https://api.whatsapp.com/send?phone=5511971382294" target="_blank"><button>ATENDIMENTO VIA WHATSAPP</button></a>
+    </main>
+    <section class="newsletter">
+        <h3>Newsletter</h3>
+        <p>Receba nossas promoções por e-mail</p>
+        <form action="#" method="post">
+            <input type="text" name="" id="nome" placeholder="digite seu nome">
+            <input type="email" name="" id="email" placeholder="digite seu e-mail aqui">
+            <button>CADASTRAR</button>
+        </form>
+    </section>
+    <footer class="rodape">
+        <p>&copyConvergence Informática</p>
+    </footer>
+</body>
+
+</html>
